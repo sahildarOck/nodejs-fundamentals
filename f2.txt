@@ -1,0 +1,4 @@
+I am f2.txt file.
+Added content at runtime using appendFileSync.
+Added content at runtime using appendFileSync.
+Added content at runtime using appendFileSync.
